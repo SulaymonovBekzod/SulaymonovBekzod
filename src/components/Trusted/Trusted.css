@@ -1,0 +1,25 @@
+.trusted_title {
+    position: relative;
+    bottom: 200px;
+    left: 480px;
+}
+
+.trusted_img {
+    position: relative;
+    bottom: 150px;
+    left: 70px;
+}
+
+.trusted_business {
+    color: rgba(253, 105, 90, 1);
+    font-size: 15px;
+}
+
+.trusted_btn {
+    width: 150px;
+    height: 50px;
+    background-color: rgba(253, 105, 90, 1);
+    color: white;
+    border: none;
+    border-radius: 50px;
+}
